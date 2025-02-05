@@ -22,12 +22,16 @@ Un **script Python** utilisant **Selenium** pour extraire les titres et les lien
 Clonez ce dépôt sur votre machine :
 ```bash
 [git clone https://github.com/votre-utilisateur/nom-du-depot.git](https://github.com/Fatimazohrajellali/YouTube-Video-Scraper-with-Selenium.git)
-####2️⃣ Installer les dépendances
+
+2️⃣ Installer les dépendances
 Installez les dépendances avec pip :
 pip install selenium
-#####3️⃣ Téléchargez ChromeDriver
+
+3️⃣ Téléchargez ChromeDriver
 Téléchargez ChromeDriver
-######🧑‍💻 Utilisation
+
+
+####🧑‍💻 Utilisation
 Exécutez le script :
 python YouTubeLienScraperwithSelenium.py
 1-Entrez votre requête de recherche lorsque vous y êtes invité.
